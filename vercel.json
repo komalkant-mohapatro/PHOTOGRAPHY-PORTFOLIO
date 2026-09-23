@@ -1,5 +1,6 @@
 {
   "framework": "vite",
+  "installCommand": "npm install && node node_modules/esbuild/install.js || true",
   "buildCommand": "vite build",
   "outputDirectory": "dist"
 }

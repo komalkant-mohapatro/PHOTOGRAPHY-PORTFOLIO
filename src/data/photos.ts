@@ -172,7 +172,7 @@ export const OTHER_WORK_PHOTOS: Photo[] = [
     image: '/images/sandc.jpg',
     aspectRatio: 'full',
     hero: true,
-    objectPosition: 'center 85%'
+    objectPosition: 'center 100%'
   },
   {
     id: 'photo-02',
